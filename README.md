@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafaelpazp
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning JavaScript, Html, Css, VueJs.
+- 🌱 I’m currently learning C, C++, Java, Python.
 - 💞️ I’m looking to collaborate on new frontend projects.
 - 📫 How to reach me Phone = 55 51 982670892 or Email = rafaelpazp@gmail.com
 
